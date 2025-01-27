@@ -1,0 +1,4 @@
+minecraft-education-launcher/
+├── README.md
+├── minecraft_education_launcher.py
+├── requirements.txt
