@@ -1,0 +1,2 @@
+# minecraft-education-launcher
+yes
